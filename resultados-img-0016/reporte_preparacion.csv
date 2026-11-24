@@ -1,0 +1,11 @@
+Categoría,Archivo original,Lectura,Ancho original,Alto original,Ancho preparado,Alto preparado,Valor mínimo norm.,Valor máximo norm.,Evaluación
+Medico,Medico.jpg,OK,420,400,224,224,0.031,1.0,APROBADA
+Medico,Medico2.jpg,OK,1248,832,224,224,0.063,1.0,APROBADA
+Medico,Medico3.jpg,OK,6720,4480,224,224,0.039,1.0,APROBADA
+Medico,Medico4.jpg,OK,1200,676,224,224,0.0,1.0,APROBADA
+Medico,Medico5.jpg,OK,800,534,224,224,0.008,0.992,APROBADA
+Ingeniero,Ingeniero.jpg,OK,495,619,224,224,0.0,1.0,APROBADA
+Ingeniero,Ingeniero2.jpg,OK,598,334,224,224,0.0,0.992,APROBADA
+Ingeniero,Ingeniero3.jpg,OK,678,452,224,224,0.0,1.0,APROBADA
+Ingeniero,Ingeniero4.jpg,OK,600,730,224,224,0.0,1.0,APROBADA
+Ingeniero,Ingeniero5.jpg,OK,679,452,224,224,0.0,1.0,APROBADA
